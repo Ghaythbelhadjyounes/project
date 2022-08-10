@@ -1,0 +1,4 @@
+export const GET_BOUTIQUES = "GET_BOUTIQUES";
+export const LOAD_BOUTIQUES = "LOAD_BOUTIQUES";
+export const FAIL_BOUTIQUES = "FAIL_BOUTIQUES";
+export const GET_BOUTIQUE = "GET_BOUTIQUE";
